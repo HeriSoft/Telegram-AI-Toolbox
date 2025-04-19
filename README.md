@@ -21,7 +21,7 @@
       14. 🎨 Generate Image (DALL-E)
       15. 📥 Photo Downloader
       16. 🎮 Quiz Game
-      17. 🏆 Bảng xếp hạng (/quizrank)
+      17. 🏆 Ranking Board (/quizrank)
       18. 💰 Finance Manager
       19. 🌍 Language Learning
       20. 🔍 Actor Recognition
