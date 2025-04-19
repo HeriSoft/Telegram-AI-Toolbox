@@ -28,7 +28,7 @@
       
       --------------------
       How to use:
-      1. Download files
+      1. Download zip file
       2. Please read README.txt first
       3. Config set-up all inside ".venv" file requirements
       4. Sure, you have installed and configured the file "service-account-key.json"
