@@ -1,2 +1,2 @@
 # Telegram-AI-Toolbox
-Telegram AI toolbox
+Telegram AI toolbox ( version 1.0.8 )
