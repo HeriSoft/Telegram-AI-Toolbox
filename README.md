@@ -35,3 +35,7 @@
       5. Run bot.exe
       6. Join bot that you have created with "botfather" in step 2
       7. Follow the instructions and use
+      ---------------------
+      PC Requirements:
+      RAM: 16GB (Runs smoothly on most of AI tasks )
+      VRAM (GPU): 8GB or more
