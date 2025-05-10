@@ -30,7 +30,7 @@
       How to use:
       1. Download zip file
       2. Please read README.txt first
-      3. Config set-up all inside ".venv" file requirements
+      3. Config set-up all inside ".env" file requirements
       4. Sure, you have installed and configured the file "service-account-key.json"
       5. Run bot.exe
       6. Join bot that you have created with "botfather" in step 2
