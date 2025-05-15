@@ -1,9 +1,9 @@
       # Telegram-AI-Toolbox
-                            Telegram AI toolbox ( version 1.0.8 )
+                            Telegram AI toolbox ( version 1.0.9 )
       ![Untitled](https://github.com/user-attachments/assets/f35885f0-a15a-496c-be87-5e0e1f5c33d2)
       ------------------
       
-      🎛️ AOI Tools Menu - V1.0.8 🎛️
+      🎛️ AOI Tools Menu - V1.0.9 🎛️
       
       1. 🧠 ChatGPT (4.1 mini)
       2. 🖼️ Remove Background
